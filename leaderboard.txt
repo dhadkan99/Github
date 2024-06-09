@@ -1,0 +1,1 @@
+{"dhadkan": -1, "kaka": 0, "bobby": 99, "nema": 20, "angel": 2, "frankey": 1}
